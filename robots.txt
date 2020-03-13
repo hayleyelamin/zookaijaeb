@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kooceesie.quiz-wiz.co.uk/sitemap.xml
